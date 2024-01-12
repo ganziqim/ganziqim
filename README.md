@@ -1,8 +1,4 @@
-### Hi there 👋
-
 <!--
-**ganziqim/ganziqim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+学习中...
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65a09e172ae39e5b7bc5be79?variant=light)](https://roadmap.sh)
